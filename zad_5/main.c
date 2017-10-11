@@ -3,7 +3,6 @@
 int main()
 {
     char znak[4];
-    int i, j;
     printf("Podaj cztery losowe litery (odziel je spacjami): ");
     scanf("%c %c %c %c", &znak[0], &znak[1], &znak[2], &znak[3]);
 
